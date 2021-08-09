@@ -7,6 +7,7 @@
 - Yan Tirta - INA - Indonesia 
 - Tim O'Brien - VN - Vietnam
 - Mie Tran  - VN - Vietnam
+- Skip - JP - Japan
 - Yuta Yuta - JP - Japan
 - Robert O'Brien - EN 
 - Greg Bell  - EN 
