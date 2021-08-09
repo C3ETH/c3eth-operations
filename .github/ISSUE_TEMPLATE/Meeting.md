@@ -1,3 +1,11 @@
+---
+name: Eastern Hemisphere Meeting
+about: Eastern Hemisphere Meeting
+title: Eastern Hemisphere Meeting - [DATE - TIME UTC]
+labels: Eastern Hemisphere Meeting
+assignees: 
+---
+
 ### Eastern Hemisphere Meeting - [DATE - TIME UTC]
 - Last Meeting - 
 - Next Meeting - 
