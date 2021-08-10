@@ -8,3 +8,7 @@
 This project will be documented with the goal to create an outcoming protocol that can be used to onboard and introduce other communities into the Catalyst Ecosystem. This project is a very first community bridge-building prototype and will iterate and increase over time by practice.
 
 The practice advantages lies in a highly dynamic and flexible mechanism, which is always able to experiment, adjust and grow by practice. The protocol and eventual solutions will be created by a “practice-first” approach. Create theory out of practice-proven mechanisms from the bottom up.
+
+## Prototype Documentation - Catalyst-Eastern-Hemisphere GitBook
+
+https://catalyst-swarm.gitbook.io/catalyst-eastern-hemisphere/
