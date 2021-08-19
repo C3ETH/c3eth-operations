@@ -11,11 +11,11 @@ assignees: tuvalusoftware, thdailong, wolstaeb, Seomon4u, FelixfromSwarm, YanTir
 - Last Meeting: 
 - Next Meeting: 
 
-- Meeting Link: 
-- 
+**[Meeting Link](https://zoom.us/meeting/register/tJIrcumprTssEtN_RkkiNfKkyWmKn2G65mX3)**
+
 ## Meeting Soundbite
 
-[TO BE DONE: fill out after the meeting. Please see [Breakout Room Summerise below](#breakout-room-summaries)
+**TO BE DONE**: fill out after the meeting. Please see [Breakout Room Summaries below](#breakout-room-summaries)
 
 ## Hosts
 
@@ -38,12 +38,12 @@ Hosts, please arrive 30mins before the start of the Townhall to make last-minute
 
 ### Japan
 
-## Vietnam
+### Vietnam
 
-## Korea
+### Korea
 
-## English
+### English
 
-## Catalyst School
+### Catalyst School
 
 ## Run sheet
