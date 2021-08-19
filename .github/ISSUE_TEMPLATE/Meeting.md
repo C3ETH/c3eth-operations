@@ -3,7 +3,8 @@ name: Eastern Hemisphere Meeting
 about: Eastern Hemisphere Meeting
 title: Eastern Hemisphere Meeting - [DATE - TIME UTC]
 labels: Eastern Hemisphere Meeting
-assignees: 
+assignees: ''
+
 ---
 
 ### Eastern Hemisphere Meeting - [DATE - TIME UTC]
@@ -34,6 +35,3 @@ assignees:
 
 
 ### Next Meeting Topics
-
-
-
