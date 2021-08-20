@@ -26,7 +26,7 @@ https://catalyst-swarm.gitbook.io/catalyst-eastern-hemisphere/
 Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -36,6 +36,7 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
   <tr>
     <td align="center"><a href="https://github.com/Mietran0407"><img src="https://avatars.githubusercontent.com/u/88927533?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mietran0407</b></sub></a><br /><a href="#eventOrganizing-Mietran0407" title="Event Organizing">📋</a> <a href="#translation-Mietran0407" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/YanTirta"><img src="https://avatars.githubusercontent.com/u/87646261?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YanTirta</b></sub></a><br /><a href="#eventOrganizing-YanTirta" title="Event Organizing">📋</a> <a href="#translation-YanTirta" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/tuvalusoftware"><img src="https://avatars.githubusercontent.com/u/593984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tim O'Brien</b></sub></a><br /><a href="#eventOrganizing-tuvalusoftware" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
