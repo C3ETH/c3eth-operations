@@ -60,6 +60,15 @@
         "eventOrganizing",
         "mentoring"
       ]
+    },
+    {
+      "login": "grebel-au",
+      "name": "grebel-au",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52366768?v=4",
+      "profile": "https://github.com/gRebel-au",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ]
 }
