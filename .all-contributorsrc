@@ -5,11 +5,21 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  "projectName": "c3eth-fund6",
+  "projectName": "Catalyst-Eastern-Hemisphere-Co-Ordination",
   "projectOwner": "C3ETH",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributors": [
+    {
+      "login": "Mietran0407",
+      "name": "Mietran0407",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88927533?v=4",
+      "profile": "https://github.com/Mietran0407",
+      "contributions": [
+        "eventOrganizing",
+        "translation"
+      ]
+    }
   ]
 }
