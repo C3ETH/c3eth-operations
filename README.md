@@ -26,7 +26,7 @@ https://catalyst-swarm.gitbook.io/catalyst-eastern-hemisphere/
 Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -38,6 +38,7 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
     <td align="center"><a href="https://github.com/YanTirta"><img src="https://avatars.githubusercontent.com/u/87646261?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YanTirta</b></sub></a><br /><a href="#eventOrganizing-YanTirta" title="Event Organizing">📋</a> <a href="#translation-YanTirta" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/tuvalusoftware"><img src="https://avatars.githubusercontent.com/u/593984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tim O'Brien</b></sub></a><br /><a href="#eventOrganizing-tuvalusoftware" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/stephen-whitenstall-166727210/"><img src="https://avatars.githubusercontent.com/u/25156451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephen Whitenstall</b></sub></a><br /><a href="#eventOrganizing-stephen-rowan" title="Event Organizing">📋</a> <a href="#projectManagement-stephen-rowan" title="Project Management">📆</a> <a href="https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/commits?author=stephen-rowan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/FelixfromSwarm"><img src="https://avatars.githubusercontent.com/u/87385188?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Felix Weber</b></sub></a><br /><a href="#eventOrganizing-FelixfromSwarm" title="Event Organizing">📋</a> <a href="#mentoring-FelixfromSwarm" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
