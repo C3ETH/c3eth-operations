@@ -69,6 +69,17 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "wolstaeb",
+      "name": "Robert O'Brien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82072426?v=4",
+      "profile": "https://github.com/wolstaeb",
+      "contributions": [
+        "eventOrganizing",
+        "projectManagement",
+        "infra"
+      ]
     }
   ]
 }
