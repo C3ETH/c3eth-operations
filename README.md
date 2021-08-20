@@ -26,9 +26,21 @@ https://catalyst-swarm.gitbook.io/catalyst-eastern-hemisphere/
 Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Mietran0407"><img src="https://avatars.githubusercontent.com/u/88927533?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mietran0407</b></sub></a><br /><a href="#eventOrganizing-Mietran0407" title="Event Organizing">📋</a> <a href="#translation-Mietran0407" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
