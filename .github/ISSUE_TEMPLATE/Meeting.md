@@ -13,17 +13,19 @@ assignees: ''
 
 ### Attendees
 
-- Yan Tirta - INA - Indonesia 
-- Tim O'Brien - VN - Vietnam
-- Mie Tran  - VN - Vietnam
-- Skip - JP - Japan
-- Yuta Yuta - JP - Japan
-- Robert O'Brien - EN 
-- Greg Bell  - EN 
-- Felix Weber - EN 
-- Seomon Blub - EN 
-- Stephen Whitenstall - EN
-- Daniel Ribar - EN
+Andreas Sosilo - INA - Indonesia
+Mie Tran - VN - Vietnam
+Duc Tiger - Vietnam
+Tien Nguyen Anh - VN
+Robert O'Brien - EN
+Yan Tirta - INA - Indonesia
+Tim O'Brien - VN - Vietnam
+Yuta Yuta - JP - Japan
+Felix Weber - EN
+Stephen Whitenstall - EN
+Greg Bell - EN
+Seomon Blub - EN
+
 
 ### Documentation
 
