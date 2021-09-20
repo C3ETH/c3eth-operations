@@ -30,7 +30,7 @@ Hosts, please arrive 30mins before the start of the Townhall to make last-minute
 - Greg Bell  - EN 
 - Felix Weber (@FelixfromSwarm) - EN 
 - Seomon Blub  (@Seomon4u) - EN 
-- Daniel Ribar - EN
+
 
 ## Breakout Room Summaries
 
