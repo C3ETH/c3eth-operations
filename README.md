@@ -1,4 +1,4 @@
-# Catalyst-Eastern-Hemisphere
+# Cardano Catalyst Eastern Hemisphere Townhall Team Operations
 [![GitHub open issues](https://img.shields.io/github/issues/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination?style=flat-square)](https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination?style=flat-square)](https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination)](https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/pulls)
