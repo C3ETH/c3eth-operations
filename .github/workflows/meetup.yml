@@ -21,7 +21,7 @@ jobs:
         gem install --no-document meetup_orbit
     - name: Check for New Event RSVPs
       run: |
-        meetup_orbit --check-rsvps --historical-import
+        meetup_orbit --check-rsvps
       env:
         MEETUP_URLNAME: ${{ secrets.MEETUP_URLNAME }}
         ORBIT_API_KEY: ${{ secrets.ORBIT_API_KEY }}
