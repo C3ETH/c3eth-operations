@@ -14,7 +14,7 @@ assignees: 'wolstaeb, andreassosilo'
 - [Openning Presentation]()
 
 - Register for [Eastern Townhall Events](https://bit.ly/3H9Xvoo) via the Cardano and Catalyst Community Network on meetup.com. 
-- [Meeting Link](https://zoom.us/meeting/register/tJIrcumprTssEtN_RkkiNfKkyWmKn2G65mX3)
+- [Meeting Link](https://us02web.zoom.us/j/83779080423?pwd=WFNHTlQ4Y2lPa0N0aytxVDdJbG9DUT09)
 ## Meeting Soundbite:
 
 [**TO BE DONE**]: fill out after the meeting. Please see [Breakout Room Summaries below](#breakout-room-summaries)
@@ -78,7 +78,7 @@ Hosts, please arrive 30mins before the start of the Townhall to make last-minute
 ## Eastern Town Hall Social Media Links
  
 - Meetup: [Eastern Townhall Events](https://bit.ly/3H9Xvoo)
-- Zoom: [Eastern Townhall Zoom](https://zoom.us/meeting/register/tJIrcumprTssEtN_RkkiNfKkyWmKn2G65mX3)
+- Zoom: [Eastern Townhall Zoom](https://us02web.zoom.us/j/83779080423?pwd=WFNHTlQ4Y2lPa0N0aytxVDdJbG9DUT09)
 - Telegram: https://bit.ly/3H6nEo2
 - Discord: https://discord.gg/pnq3CZuUjC
 - Twitter: https://bit.ly/3u4EOhZ
