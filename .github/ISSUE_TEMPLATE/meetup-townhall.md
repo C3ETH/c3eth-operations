@@ -1,7 +1,7 @@
 ---
 name: Townhall Event
 about: Biweekly Eastern Hemisphere Community Event
-title: 'Event [Townhall]: Eastern Hemisphere Townhall Event - DD MM 2022 0900 to 11:00 UTC'
+title: 'Event [Townhall]: Eastern Hemisphere Townhall Event #NN - DD MM 2022 0900 to 11:00 UTC'
 labels: 'Meetup:Townhall, Operations:Administration'
 assignees: 'wolstaeb, andreassosilo'
 
@@ -11,9 +11,8 @@ assignees: 'wolstaeb, andreassosilo'
 - Last Meeting: 
 - Next Meeting: 
 
-- [Openning Presentation]()
-
 - Register for [Eastern Townhall Events](https://bit.ly/3H9Xvoo) via the Cardano and Catalyst Community Network on meetup.com. 
+- [Openning Presentation]()
 - [Meeting Link](https://us02web.zoom.us/j/83779080423?pwd=WFNHTlQ4Y2lPa0N0aytxVDdJbG9DUT09)
 ## Meeting Soundbite:
 
@@ -25,7 +24,8 @@ assignees: 'wolstaeb, andreassosilo'
 1. Japanese
 2. Indonesian
 3. English / Eastern Africa
-4. Vietnamese
+4. Korean
+5. Vietnamese
 
 ## Run sheet:
 
@@ -35,7 +35,7 @@ assignees: 'wolstaeb, andreassosilo'
 ## Attendee Numbers:
 
 EHT # | Date | Participants | Japan | Indonesia | Vietnam | English | Korean | Catalyst School
--- | -- | -- | -- | -- | -- | -- | -- | --
+#NN | -- | -- | -- | -- | -- | -- | -- | --
 
 ## Meeting Soundbite:
 
@@ -55,9 +55,8 @@ Hosts, please arrive 30mins before the start of the Townhall to make last-minute
 - Yan Tirta (@YanTirta)
 - Angela Gatende (@A-W-G)
 - Robert O'Brien (@wolstaeb)
-- Stephen Whitenstall (@stephen-rowan)
-- Felix Weber (@FelixfromSwarm)
-
+- Julius Mark Ibanez (@markibanez)
+- Paul Ko (@haskellcoding29)
 ## Breakout Room Summaries:
 
 ### Indonesian
@@ -77,9 +76,10 @@ Hosts, please arrive 30mins before the start of the Townhall to make last-minute
 [**TO BE DONE**]: fill out after the meeting. 
 ## Eastern Town Hall Social Media Links
  
-- Meetup: [Eastern Townhall Events](https://bit.ly/3H9Xvoo)
-- Zoom: [Eastern Townhall Zoom](https://us02web.zoom.us/j/83779080423?pwd=WFNHTlQ4Y2lPa0N0aytxVDdJbG9DUT09)
+- Zoom: https://us02web.zoom.us/j/83779080423?pwd=WFNHTlQ4Y2lPa0N0aytxVDdJbG9DUT09
+- Web: https://easterntownhall.com/
 - Telegram: https://bit.ly/3H6nEo2
 - Discord: https://discord.gg/pnq3CZuUjC
 - Twitter: https://bit.ly/3u4EOhZ
+- Meetup: https://bit.ly/3H9Xvoo
 - Email: [eastern.townhall@gmail.com](mailto:eastern.townhall@gmail.com)
