@@ -5,7 +5,7 @@ title: 'Meeting [Team Checkin]: Core Team Weekly DD MMM 2022 - 0800 to 1000 UTC'
 labels: 'Meetup:Team Checkin, Catalyst:Fund7, Operations:Administration'
 assignees: 'andreassosilo, Mietran0407, wolstaeb'
 ---
-## Review
+## Topics
 
 1. Topic to review
 2. Topic to review
@@ -33,10 +33,11 @@ assignees: 'andreassosilo, Mietran0407, wolstaeb'
 - Yan Tirta (@YanTirta)
 - Angela Gatende (@A-W-G)
 - Robert O'Brien (@wolstaeb)
+- Julius Mark Ibanez (@markibanez)
 
 ### Apologies:
 
-### Topics to cover
+### Adgenda
 
 1. General catch-up with each other.
 2. Catalyst Updates (if any)
